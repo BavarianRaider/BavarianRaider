@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BavarianRaider aka. Jonas
 - 👀 I’m interested in Programming, PC/Hardware/Software, girls(lol), music and some other shit 
-- 🌱 I’m currently learning python and after that JS and HTML(not a Programming Language ik ik)
-- 📫 How to reach me : Instagram or my discord Server(not existing yet :D)
+- 🌱 I’m currently deep learnign JavaScript, CSS and HTML, also I can write in Python and soon want to learn Linux Terminal for Servers...
+- 📫 How to reach me : Instagram lol
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I´m an Idiot
 
